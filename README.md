@@ -1,1 +1,1 @@
-# Employee-Attrition-Prediction-Using-Machine-Learning
+# Employee-Attrition-Prediction-Using-Linear-Regression
